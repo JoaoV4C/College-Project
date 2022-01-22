@@ -1,0 +1,1 @@
+{"Jos\u00e9 Mario": {"py/object": "atletas.Atleta", "_nome": "Jos\u00e9 Mario", "_idade": 40, "_sexo": "m", "_paralisia": "Paralisia Cerebral", "_covid": true, "_modalidade": {"py/reduce": [{"py/type": "modalidades.Modalidades"}, {"py/tuple": [2]}]}, "_medalhas": [1, 2, 0]}}
